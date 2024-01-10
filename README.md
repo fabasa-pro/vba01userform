@@ -36,7 +36,7 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-> :+1: **Parabéns:** <br>Aqui você conclui nosso artigo, mas precisamos **Salvar** este documento como __*.docm__ que é um tipo de documento especial que contém a programação.
+> :+1: **Parabéns:** <br>Aqui você conclui nosso artigo, mas precisamos **salvar** este documento como __*.docm__ que é um tipo de documento especial que contém a programação.
 
 7. Feche o `IDE` do `Visual Basic for Application` e vá para o `Word` do `Microsoft Office`, no menu `Word` vá para **Arquivo** > **Salvar como** > **Procure** o local e em **Tipo** escolha o tipo de __Documento Habilitado para Macro do Word (*.docm)__, Feche tudo e reabra o documento `Word` para executar nosso código. Habilitar a execução na primeira vez, se necessário, e o formulário será exibido.
 
@@ -49,7 +49,7 @@ Este artigo visa apenas mostrar como utilizar o `Visual Basic` no `Microsoft Wor
 * No documento inserimos um código na função para chamar o formulário, assim como fazemos para escolher o formulário a ser executado primeiro.
 * No formulário inserimos um código na função apenas para iniciar, assim você pode inserir seu código apenas para testes e estudos.
 
-A seguir veremos como [ocultar o Microsoft Office](https://github.com/fabasa-pro/vba02hideapplication), deixando apenas a janela principal do `Visual Basic` visível, para quem precisa programar um `Desktop Application` e não quer ver aquele documento `Word` aberto o tempo todo . Lembrando que podemos manipular todo o documento `Word` para imprimir ou visualizar relatórios, imprimir ou salvar modelos de documentos com total automação, sem a necessidade de abrir e digitar diretamente, apenas utilizando códigos em `Visual Bassic`.
+A seguir veremos como [ocultar o Microsoft Office](https://github.com/fabasa-pro/vba02hideapplication), deixando apenas a janela principal do `Visual Basic` visível, para quem precisa programar um `Desktop Application` e não quer ver aquele documento `Word` aberto o tempo todo. Lembrando que podemos manipular todo o documento `Word` para imprimir ou visualizar relatórios, imprimir ou salvar modelos de documentos com total automação, sem a necessidade de abrir e digitar diretamente, apenas utilizando códigos em `Visual Bassic`.
 
 ## Licenciado sob a licença MIT
 
