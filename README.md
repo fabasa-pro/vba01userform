@@ -47,7 +47,7 @@ Este artigo visa apenas mostrar como utilizar o `Visual Basic` no `Microsoft Wor
 * No documento inserimos um código na função para chamar o formulário, assim como fazemos para escolher o formulário a ser executado primeiro.
 * No formulário inserimos um código na função apenas para iniciar, assim você pode inserir seu código apenas para testes e estudos.
 
-A seguir veremos como [Ocultar o Microsoft Office](https://github.com/fabasa-pro/vba02hideapplication), deixando apenas a janela principal do `Visual Basic` visível, para quem precisa programar um `Desktop Application` e não quer ver aquele documento `Word` aberto o tempo todo . Lembrando que podemos manipular todo o documento `Word` para imprimir ou visualizar relatórios, imprimir ou salvar modelos de documentos com total automação, sem a necessidade de abrir e digitar diretamente, apenas utilizando códigos em `Visual Bassic`.
+A seguir veremos como [ocultar o Microsoft Office](https://github.com/fabasa-pro/vba02hideapplication), deixando apenas a janela principal do `Visual Basic` visível, para quem precisa programar um `Desktop Application` e não quer ver aquele documento `Word` aberto o tempo todo . Lembrando que podemos manipular todo o documento `Word` para imprimir ou visualizar relatórios, imprimir ou salvar modelos de documentos com total automação, sem a necessidade de abrir e digitar diretamente, apenas utilizando códigos em `Visual Bassic`.
 
 ## Licenciado sob a licença MIT
 
