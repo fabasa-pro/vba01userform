@@ -38,7 +38,7 @@ End Sub
 
 > :+1: **Parabéns:** <br>Aqui você conclui nosso artigo, mas precisamos **Salvar** este documento como __*.docm__ que é um tipo de documento especial que contém a programação.
 
-7. Feche o `IDE` do `Visual Basic for Application` e vá para o `Word` do `Microsoft Office`, no menu `Word` vá para **Arquivo** > **Salvar como** > **Procure** o local e em **Tipo** escolha o tipo de __Documento Habilitado para Macro do Word (*.docm)__, fechar tudo e abrir o documento `Word`. Habilitar a execução na primeira vez, se necessário, e o formulário será exibido.
+7. Feche o `IDE` do `Visual Basic for Application` e vá para o `Word` do `Microsoft Office`, no menu `Word` vá para **Arquivo** > **Salvar como** > **Procure** o local e em **Tipo** escolha o tipo de __Documento Habilitado para Macro do Word (*.docm)__, Feche tudo e reabra o documento `Word` para executar nosso código. Habilitar a execução na primeira vez, se necessário, e o formulário será exibido.
 
 ![screenshot](https://github.com/fabasa-pro/vba01userform/blob/main/vba01userform.png)
 
